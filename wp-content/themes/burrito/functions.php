@@ -46,6 +46,7 @@ require get_template_directory() . '/includes/template-functions.php';
  * Customizer additions.
  */
 require get_template_directory() . '/includes/customizer.php';
+require get_template_directory() . '/includes/navigations.php';
 
 /**
  * Load Jetpack compatibility file.

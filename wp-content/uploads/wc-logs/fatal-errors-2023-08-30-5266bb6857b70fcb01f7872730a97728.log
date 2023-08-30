@@ -70,3 +70,15 @@ Stack trace:
 #7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
 #8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
 
+2023-08-30T14:22:57+00:00 CRITICAL Uncaught Error: Call to undefined function do_ation() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\header.php:25
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-includes\template.php(785): require_once()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\template.php(720): load_template()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\general-template.php(48): locate_template()
+#3 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\index.php(15): get_header()
+#4 D:\OSPanel\domains\woocommerce\wp-includes\template-loader.php(106): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\woocommerce\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\woocommerce\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\header.php on line 25
+
