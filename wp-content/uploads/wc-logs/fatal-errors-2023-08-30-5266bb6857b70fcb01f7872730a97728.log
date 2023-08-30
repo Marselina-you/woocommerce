@@ -1,0 +1,72 @@
+2023-08-30T06:21:52+00:00 CRITICAL Uncaught Error: Call to undefined function set_icon() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:17
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
+
+2023-08-30T06:21:54+00:00 CRITICAL Uncaught Error: Call to undefined function set_icon() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:17
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
+
+2023-08-30T06:21:54+00:00 CRITICAL Uncaught Error: Call to undefined function set_icon() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:17
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
+
+2023-08-30T06:21:58+00:00 CRITICAL Uncaught Error: Call to undefined function set_icon() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:17
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
+
+2023-08-30T06:22:02+00:00 CRITICAL Uncaught Error: Call to undefined function set_icon() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:17
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
+
+2023-08-30T06:22:03+00:00 CRITICAL Uncaught Error: Call to undefined function set_icon() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:17
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#8 D:\OSPanel\dom in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 17
+
