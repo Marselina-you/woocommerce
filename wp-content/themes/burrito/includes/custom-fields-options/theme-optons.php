@@ -9,10 +9,31 @@ use Carbon_Fields\Field;
 Container::make( 'theme_options', 'Настройки темы' )
 	->set_icon( 'dashicons-carrot' )
 	->add_tab( 'Шапка', array(
-		Field::make( 'image', 'est_header_logo', 'Логотип' )
-			->set_width( 30 ),
-		Field::make( 'text', 'crb_last_name', 'Last Name' )
-		     ->set_width( 70 ),
+		Field::make( 'select', 'est_header_logic', 'Будет ли использоваться логотип?' )
+			->add_options(array(
+				'yes' => 'да, я буду использовать логотип',
+				'no' => 'нет, я буду использовать текст'
+			)),
+		Field::make( 'image', 'est_header_logo', 'Логотип' ),
+		Field::make( 'text', 'est_header_site_name', 'Название сайта' )
+		->set_conditional_logic(array(
+			'relation' => 'AND',
+			array(
+				'field' => 'est_header_logic',
+				'value' => 'no',
+				'compare' => '=',
+			)
+		)),
+		Field::make( 'text', 'est_header_site_desc', 'Описание сайта' )
+		->set_conditional_logic(array(
+			'relation' => 'AND',
+			array(
+				'field' => 'est_header_logic',
+				'value' => 'yes',
+				'compare' => '=',
+			)
+		)),
+		   
 	) )
 	->set_icon('dashicons-carrot')
 		->add_fields( array(

@@ -1,0 +1,55 @@
+2023-09-06T15:38:08+00:00 CRITICAL Uncaught Error: Call to undefined method Carbon_Fields\Field\Select_Field::add_positions() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:13
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): W in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 13
+
+2023-09-06T15:38:10+00:00 CRITICAL Uncaught Error: Call to undefined method Carbon_Fields\Field\Select_Field::add_positions() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:13
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): W in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 13
+
+2023-09-06T15:38:10+00:00 CRITICAL Uncaught Error: Call to undefined method Carbon_Fields\Field\Select_Field::add_positions() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:13
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): W in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 13
+
+2023-09-06T15:38:29+00:00 CRITICAL Uncaught Error: Call to undefined method Carbon_Fields\Field\Select_Field::add_positions() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:13
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): W in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 13
+
+2023-09-06T15:38:29+00:00 CRITICAL Uncaught Error: Call to undefined method Carbon_Fields\Field\Select_Field::add_positions() in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php:13
+Stack trace:
+#0 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\functions.php(11): require()
+#1 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): estore_register_custom_fields()
+#2 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\carbon-fields\vendor\htmlburger\carbon-fields\core\Loader\Loader.php(80): do_action()
+#5 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(310): Carbon_Fields\Loader\Loader->trigger_fields_register()
+#6 D:\OSPanel\domains\woocommerce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\OSPanel\domains\woocommerce\wp-includes\plugin.php(517): W in D:\OSPanel\domains\woocommerce\wp-content\themes\burrito\includes\custom-fields-options\theme-optons.php on line 13
+
